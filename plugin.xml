@@ -1,0 +1,6 @@
+<plugin id="com.yourpackage.pagebreak">
+  <feature extension="package.support.name" value="Force Page Break Plugin"/>
+  <feature extension="package.support.email" value="support@youremail.com"/>
+  <feature extension="package.version" value="1.0.0"/>
+  <feature extension="dita.xsl.xslfo" value="pageBreak.xsl" type="file"/>
+</plugin>
