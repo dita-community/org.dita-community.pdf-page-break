@@ -1,4 +1,4 @@
-<plugin id="com.yourpackage.pagebreak">
+<plugin id="org.dita-community.pdf-page-break">
   <feature extension="package.support.name" value="Force Page Break Plugin"/>
   <feature extension="package.support.email" value="support@youremail.com"/>
   <feature extension="package.version" value="1.0.0"/>
