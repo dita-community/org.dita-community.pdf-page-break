@@ -1,8 +1,6 @@
-# PDF Page Break Plugin for DITA Open Toolkit
+# PDF Page Break Plugin for DITA-OT
 
-This plugin is based on a blog post by Radu Coravu of Syncro Soft, the makers of [oXygen XML Editor][1].
-
-For more information, see <http://blog.oxygenxml.com/2015/04/dita-pdf-publishing-force-page-breaks.html>.
+This plugin for [DITA Open Toolkit][1] is based on a [blog post][2] by Radu Coravu of Syncro Soft, the makers of [oXygen XML Editor][3].
 
 The instructions from the original post are included here for convenience:
 
@@ -62,10 +60,12 @@ Here's how a DITA Open Toolkit plugin which would achieve this could be implemen
 
     If you are running the publishing from **Oxygen XML Editor** you can use the predefined transformation scenario: [http://www.oxygenxml.com/doc/ug-oxygen/#topics/dita-ot-install-plugin.html](http://www.oxygenxml.com/doc/ug-oxygen/#topics/dita-ot-install-plugin.html). 
 
-    If you run DITA OT from the command line please follow these guidelines:  
+    If you run DITA-OT from the command line please follow these guidelines:  
     [http://www.dita-ot.org/2.0/dev_ref/plugins-installing.html](http://www.dita-ot.org/2.0/dev_ref/plugins-installing.html).
 
 
 ---
 
-[1]:    [http://www.oxygenxml.com/]
+[1]:    http://www.dita-ot.org/
+[2]:	http://blog.oxygenxml.com/2015/04/dita-pdf-publishing-force-page-breaks.html
+[3]:    http://www.oxygenxml.com/
